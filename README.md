@@ -29,8 +29,7 @@
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;
 <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;
 
-[![My Skills](https://skillicons.dev/icons?i=ps&perline=10)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ai&perline=10)](https://skillicons.dev)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8">
   
